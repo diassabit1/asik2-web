@@ -34,6 +34,8 @@ GameHub is a simple video game website created for Assignment #2 in Web Technolo
 2. Open the project folder in VS Code.
 3. Open index.html in a browser.
 
+   https://diassabit1.github.io/asik2-web/
+
 ## Author
 
 Dias Sabit
